@@ -1,0 +1,51 @@
+# Molecular Docking Projects
+
+A collection of molecular docking studies, protein–ligand interaction analyses, redocking validation experiments, and structural visualization projects using computational bioinformatics tools.
+
+## About This Repository
+
+This repository documents my practical learning and project work in molecular docking and structural bioinformatics.
+
+It includes protein and ligand preparation, molecular docking, binding-pose analysis, structural validation, and visualization of protein–ligand complexes.
+
+The repository will be updated as I complete additional molecular docking projects and explore new computational techniques.
+
+## Project Collection
+
+### Project 01: Molecular Docking and Redocking Validation of Benzamidine with Bovine Trypsin
+
+**Target protein:** Bovine Trypsin  
+**PDB ID:** 3PTB  
+**Ligand:** Benzamidine  
+**PubChem CID:** 2332  
+**Docking software:** AutoDock Vina
+
+**Project objectives:**
+- Prepare the protein receptor and ligand for molecular docking.
+- Perform molecular docking using AutoDock Vina.
+- Identify the preferred ligand-binding pose.
+- Validate the predicted pose against the experimentally observed crystal ligand.
+- Analyse interactions between benzamidine and important binding-site residues.
+- Visualize the protein–ligand complex using PyMOL.
+
+**Key findings:**
+- Best predicted docking affinity: −6.105 kcal/mol.
+- Redocking heavy-atom RMSD: approximately 0.40 Å.
+- Important binding-site residue: Asp189.
+- Two close ligand nitrogen–Asp189 oxygen contacts: approximately 3.02 Å and 3.05 Å.
+
+
+## Tools and Technologies
+
+| Tool | Application |
+|---|---|
+| AutoDock Vina | Molecular docking |
+| RDKit | Ligand preparation and cheminformatics |
+| Meeko | Protein and ligand preparation |
+| PyMOL | Molecular visualization |
+| Python | Computational analysis |
+| Google Colab | Cloud-based computational environment |
+| PDB | Protein structure database |
+| PubChem | Chemical structure database |
+
+
