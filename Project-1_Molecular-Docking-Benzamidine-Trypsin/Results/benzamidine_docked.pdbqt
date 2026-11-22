@@ -1,0 +1,248 @@
+MODEL 1
+REMARK VINA RESULT:    -6.203      0.000      0.000
+REMARK INTER + INTRA:          -6.608
+REMARK INTER:                  -6.565
+REMARK INTRA:                  -0.043
+REMARK UNBOUND:                -0.043
+REMARK  Name = original/original_benzamidine.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      -2.031  13.612  15.676  0.00  0.00    +0.266 C 
+ATOM      2  N   UNL A   1      -1.662  12.354  15.516  0.00  0.00    -0.288 N 
+ATOM      3  N   UNL A   1      -2.822  14.150  14.763  0.00  0.00    -0.250 N 
+ATOM      4  H   UNL A   1      -1.869  11.884  14.677  0.00  0.00    +0.301 HD
+ATOM      5  H   UNL A   1      -1.180  11.887  16.237  0.00  0.00    +0.301 HD
+ATOM      6  H   UNL A   1      -3.019  13.661  13.932  0.00  0.00    +0.288 HD
+ATOM      7  H   UNL A   1      -3.215  15.041  14.916  0.00  0.00    +0.288 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   UNL A   1      -1.755  14.305  16.849  0.00  0.00    +0.061 A 
+ATOM      9  C   UNL A   1      -2.412  15.476  17.120  0.00  0.00    +0.016 A 
+ATOM     10  C   UNL A   1      -2.142  16.170  18.306  0.00  0.00    +0.001 A 
+ATOM     11  C   UNL A   1      -1.195  15.674  19.217  0.00  0.00    +0.000 A 
+ATOM     12  C   UNL A   1      -0.527  14.483  18.923  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL A   1      -0.816  13.811  17.738  0.00  0.00    +0.016 A 
+ENDBRANCH   1   8
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -6.197      0.046      1.602
+REMARK INTER + INTRA:          -6.603
+REMARK INTER:                  -6.560
+REMARK INTRA:                  -0.043
+REMARK UNBOUND:                -0.043
+REMARK  Name = original/original_benzamidine.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      -2.059  13.607  15.716  0.00  0.00    +0.266 C 
+ATOM      2  N   UNL A   1      -1.679  12.353  15.547  0.00  0.00    -0.288 N 
+ATOM      3  N   UNL A   1      -2.870  14.139  14.817  0.00  0.00    -0.250 N 
+ATOM      4  H   UNL A   1      -1.895  11.882  14.710  0.00  0.00    +0.301 HD
+ATOM      5  H   UNL A   1      -1.180  11.890  16.259  0.00  0.00    +0.301 HD
+ATOM      6  H   UNL A   1      -3.076  13.649  13.988  0.00  0.00    +0.288 HD
+ATOM      7  H   UNL A   1      -3.269  15.024  14.978  0.00  0.00    +0.288 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   UNL A   1      -1.770  14.301  16.885  0.00  0.00    +0.061 A 
+ATOM      9  C   UNL A   1      -0.830  13.813  17.753  0.00  0.00    +0.016 A 
+ATOM     10  C   UNL A   1      -0.532  14.516  18.927  0.00  0.00    +0.001 A 
+ATOM     11  C   UNL A   1      -1.197  15.718  19.222  0.00  0.00    +0.000 A 
+ATOM     12  C   UNL A   1      -2.159  16.198  18.331  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL A   1      -2.436  15.481  17.170  0.00  0.00    +0.016 A 
+ENDBRANCH   1   8
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -4.984      2.409      3.498
+REMARK INTER + INTRA:          -5.319
+REMARK INTER:                  -5.275
+REMARK INTRA:                  -0.043
+REMARK UNBOUND:                -0.043
+REMARK  Name = original/original_benzamidine.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      -2.037  17.350  17.247  0.00  0.00    +0.266 C 
+ATOM      2  N   UNL A   1      -1.766  18.163  18.251  0.00  0.00    -0.288 N 
+ATOM      3  N   UNL A   1      -2.494  17.876  16.123  0.00  0.00    -0.250 N 
+ATOM      4  H   UNL A   1      -2.021  19.113  18.197  0.00  0.00    +0.301 HD
+ATOM      5  H   UNL A   1      -1.308  17.820  19.053  0.00  0.00    +0.301 HD
+ATOM      6  H   UNL A   1      -2.740  18.829  16.090  0.00  0.00    +0.288 HD
+ATOM      7  H   UNL A   1      -2.587  17.315  15.319  0.00  0.00    +0.288 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   UNL A   1      -1.691  16.003  17.291  0.00  0.00    +0.061 A 
+ATOM      9  C   UNL A   1      -0.955  15.523  18.341  0.00  0.00    +0.016 A 
+ATOM     10  C   UNL A   1      -0.614  14.165  18.391  0.00  0.00    +0.001 A 
+ATOM     11  C   UNL A   1      -1.019  13.295  17.366  0.00  0.00    +0.000 A 
+ATOM     12  C   UNL A   1      -1.762  13.802  16.297  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL A   1      -2.089  15.155  16.272  0.00  0.00    +0.016 A 
+ENDBRANCH   1   8
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -4.864      2.849      4.054
+REMARK INTER + INTRA:          -5.192
+REMARK INTER:                  -5.151
+REMARK INTRA:                  -0.040
+REMARK UNBOUND:                -0.043
+REMARK  Name = original/original_benzamidine.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      -1.531  16.683  18.946  0.00  0.00    +0.266 C 
+ATOM      2  N   UNL A   1      -1.873  17.895  18.546  0.00  0.00    -0.288 N 
+ATOM      3  N   UNL A   1      -1.354  16.480  20.240  0.00  0.00    -0.250 N 
+ATOM      4  H   UNL A   1      -1.867  18.643  19.186  0.00  0.00    +0.301 HD
+ATOM      5  H   UNL A   1      -2.135  18.049  17.609  0.00  0.00    +0.301 HD
+ATOM      6  H   UNL A   1      -1.354  17.242  20.863  0.00  0.00    +0.288 HD
+ATOM      7  H   UNL A   1      -1.221  15.566  20.581  0.00  0.00    +0.288 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   UNL A   1      -1.530  15.604  18.068  0.00  0.00    +0.061 A 
+ATOM      9  C   UNL A   1      -0.782  14.494  18.355  0.00  0.00    +0.016 A 
+ATOM     10  C   UNL A   1      -0.788  13.402  17.476  0.00  0.00    +0.001 A 
+ATOM     11  C   UNL A   1      -1.553  13.444  16.300  0.00  0.00    +0.000 A 
+ATOM     12  C   UNL A   1      -2.304  14.587  16.017  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL A   1      -2.282  15.658  16.908  0.00  0.00    +0.016 A 
+ENDBRANCH   1   8
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -4.844      3.035      3.907
+REMARK INTER + INTRA:          -5.170
+REMARK INTER:                  -5.129
+REMARK INTRA:                  -0.041
+REMARK UNBOUND:                -0.043
+REMARK  Name = original/original_benzamidine.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      -0.655  16.802  19.080  0.00  0.00    +0.266 C 
+ATOM      2  N   UNL A   1      -1.426  17.860  19.256  0.00  0.00    -0.288 N 
+ATOM      3  N   UNL A   1       0.387  16.650  19.879  0.00  0.00    -0.250 N 
+ATOM      4  H   UNL A   1      -1.151  18.571  19.879  0.00  0.00    +0.301 HD
+ATOM      5  H   UNL A   1      -2.276  17.938  18.764  0.00  0.00    +0.301 HD
+ATOM      6  H   UNL A   1       0.643  17.372  20.497  0.00  0.00    +0.288 HD
+ATOM      7  H   UNL A   1       0.906  15.814  19.856  0.00  0.00    +0.288 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   UNL A   1      -1.015  15.781  18.207  0.00  0.00    +0.061 A 
+ATOM      9  C   UNL A   1      -1.794  16.059  17.116  0.00  0.00    +0.016 A 
+ATOM     10  C   UNL A   1      -2.148  15.033  16.231  0.00  0.00    +0.001 A 
+ATOM     11  C   UNL A   1      -1.713  13.718  16.461  0.00  0.00    +0.000 A 
+ATOM     12  C   UNL A   1      -0.926  13.448  17.583  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL A   1      -0.586  14.487  18.446  0.00  0.00    +0.016 A 
+ENDBRANCH   1   8
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -4.439     10.835     10.942
+REMARK INTER + INTRA:          -4.742
+REMARK INTER:                  -4.707
+REMARK INTRA:                  -0.035
+REMARK UNBOUND:                -0.043
+REMARK  Name = original/original_benzamidine.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1       7.711  20.638  12.783  0.00  0.00    +0.266 C 
+ATOM      2  N   UNL A   1       8.354  19.487  12.696  0.00  0.00    -0.288 N 
+ATOM      3  N   UNL A   1       8.189  21.671  12.110  0.00  0.00    -0.250 N 
+ATOM      4  H   UNL A   1       9.229  19.445  12.247  0.00  0.00    +0.301 HD
+ATOM      5  H   UNL A   1       7.957  18.671  13.081  0.00  0.00    +0.301 HD
+ATOM      6  H   UNL A   1       9.065  21.606  11.665  0.00  0.00    +0.288 HD
+ATOM      7  H   UNL A   1       7.668  22.504  12.053  0.00  0.00    +0.288 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   UNL A   1       6.474  20.731  13.410  0.00  0.00    +0.061 A 
+ATOM      9  C   UNL A   1       5.442  21.381  12.788  0.00  0.00    +0.016 A 
+ATOM     10  C   UNL A   1       4.192  21.468  13.415  0.00  0.00    +0.001 A 
+ATOM     11  C   UNL A   1       3.994  20.896  14.682  0.00  0.00    +0.000 A 
+ATOM     12  C   UNL A   1       5.059  20.244  15.308  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL A   1       6.291  20.170  14.662  0.00  0.00    +0.016 A 
+ENDBRANCH   1   8
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -4.253      2.374      3.225
+REMARK INTER + INTRA:          -4.545
+REMARK INTER:                  -4.518
+REMARK INTRA:                  -0.027
+REMARK UNBOUND:                -0.043
+REMARK  Name = original/original_benzamidine.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      -1.839  16.476  16.905  0.00  0.00    +0.266 C 
+ATOM      2  N   UNL A   1      -1.881  15.174  16.685  0.00  0.00    -0.288 N 
+ATOM      3  N   UNL A   1      -2.544  17.265  16.112  0.00  0.00    -0.250 N 
+ATOM      4  H   UNL A   1      -2.321  14.826  15.877  0.00  0.00    +0.301 HD
+ATOM      5  H   UNL A   1      -1.471  14.553  17.330  0.00  0.00    +0.301 HD
+ATOM      6  H   UNL A   1      -2.980  16.895  15.310  0.00  0.00    +0.288 HD
+ATOM      7  H   UNL A   1      -2.633  18.223  16.324  0.00  0.00    +0.288 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   UNL A   1      -1.224  17.001  18.036  0.00  0.00    +0.061 A 
+ATOM      9  C   UNL A   1      -0.100  17.772  17.906  0.00  0.00    +0.016 A 
+ATOM     10  C   UNL A   1       0.514  18.310  19.044  0.00  0.00    +0.001 A 
+ATOM     11  C   UNL A   1      -0.014  18.056  20.320  0.00  0.00    +0.000 A 
+ATOM     12  C   UNL A   1      -1.156  17.260  20.438  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL A   1      -1.749  16.739  19.290  0.00  0.00    +0.016 A 
+ENDBRANCH   1   8
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -4.222      9.352      9.716
+REMARK INTER + INTRA:          -4.512
+REMARK INTER:                  -4.486
+REMARK INTRA:                  -0.026
+REMARK UNBOUND:                -0.043
+REMARK  Name = original/original_benzamidine.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1       6.090  20.706  15.070  0.00  0.00    +0.266 C 
+ATOM      2  N   UNL A   1       6.575  21.520  15.990  0.00  0.00    -0.288 N 
+ATOM      3  N   UNL A   1       6.856  19.715  14.647  0.00  0.00    -0.250 N 
+ATOM      4  H   UNL A   1       7.522  21.458  16.251  0.00  0.00    +0.301 HD
+ATOM      5  H   UNL A   1       5.989  22.187  16.416  0.00  0.00    +0.301 HD
+ATOM      6  H   UNL A   1       7.800  19.670  14.923  0.00  0.00    +0.288 HD
+ATOM      7  H   UNL A   1       6.482  19.021  14.057  0.00  0.00    +0.288 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   UNL A   1       4.757  20.767  14.679  0.00  0.00    +0.061 A 
+ATOM      9  C   UNL A   1       4.435  21.204  13.421  0.00  0.00    +0.016 A 
+ATOM     10  C   UNL A   1       3.093  21.256  13.023  0.00  0.00    +0.001 A 
+ATOM     11  C   UNL A   1       2.075  20.868  13.909  0.00  0.00    +0.000 A 
+ATOM     12  C   UNL A   1       2.419  20.433  15.191  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL A   1       3.761  20.388  15.562  0.00  0.00    +0.016 A 
+ENDBRANCH   1   8
+TORSDOF 1
+ENDMDL
