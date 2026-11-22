@@ -1,0 +1,60 @@
+MOLECULAR DOCKING ANALYSIS REPORT
+==================================
+
+Project: Benzamidine with bovine beta-trypsin
+PDB ID: 3PTB
+Chain: A
+Generated: 2026-11-22
+
+1. DOCKING RESULT
+-----------------
+Software: AutoDock Vina 1.2.7
+Best docking score: -6.203 kcal/mol
+
+2. REDOCKING VALIDATION
+-----------------------
+BENZAMIDINE REDOCKING VALIDATION
+---------------------------------------------
+Crystal heavy atoms: 9
+Docked heavy atoms: 9
+Symmetry-aware heavy-atom RMSD: 0.374 Å
+
+Best atom correspondence:
+Docked atom 1 -> Crystal atom C
+Docked atom 2 -> Crystal atom N2
+Docked atom 3 -> Crystal atom N1
+Docked atom 8 -> Crystal atom C1
+Docked atom 9 -> Crystal atom C2
+Docked atom 10 -> Crystal atom C3
+Docked atom 11 -> Crystal atom C4
+Docked atom 12 -> Crystal atom C5
+Docked atom 13 -> Crystal atom C6
+
+No coordinate superposition was applied.
+
+
+3. ASP189 INTERACTION ANALYSIS
+------------------------------
+Benzamidine–Asp189 distance analysis
+------------------------------------------------
+N_atom_2 -- ASP189 OD1: 3.730 Å
+N_atom_2 -- ASP189 OD2: 3.028 Å
+N_atom_3 -- ASP189 OD1: 3.032 Å
+N_atom_3 -- ASP189 OD2: 3.766 Å
+
+
+4. INTERPRETATION
+-----------------
+The redocked benzamidine pose reproduces the
+crystallographic ligand position with a low
+symmetry-aware heavy-atom RMSD.
+
+The nitrogen-oxygen distances indicate close
+polar contacts with Asp189.
+
+The docking score is computational and is not
+an experimentally measured binding free energy.
+
+This report describes a single-complex redocking
+validation and should not be interpreted as proof
+of general docking accuracy.
