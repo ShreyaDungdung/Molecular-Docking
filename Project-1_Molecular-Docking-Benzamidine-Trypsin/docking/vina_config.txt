@@ -1,0 +1,15 @@
+receptor = receptor/trypsin_receptor.pdbqt
+ligand = ligand/benzamidine_protonated.pdbqt
+
+center_x = -1.759
+center_y = 14.461
+center_z = 16.916
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+exhaustiveness = 16
+num_modes = 9
+energy_range = 3
+seed = 20261122
