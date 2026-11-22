@@ -1,0 +1,24 @@
+MOLECULAR DOCKING VALIDATION
+
+Protein: Bovine beta-trypsin
+PDB ID: 3PTB
+Chain: A
+Ligand: Benzamidine
+Docking software: AutoDock Vina 1.2.7
+
+Best docking score: -6.203 kcal/mol
+
+Validation method:
+Redocking of crystallographic benzamidine
+Symmetry-aware heavy-atom RMSD
+
+Calculated RMSD: 0.374 Angstrom
+
+Interpretation:
+The redocked ligand pose closely reproduces
+the crystallographic ligand position.
+
+Important limitation:
+This is a single-complex redocking validation.
+The docking score is computational and is not
+an experimentally measured binding affinity.
