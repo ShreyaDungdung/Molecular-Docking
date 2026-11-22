@@ -95,27 +95,6 @@ The closest nitrogen–oxygen contacts were approximately **3.03 Å**.
 
 These distances are consistent with a charge-assisted polar interaction. The distances alone do not establish a hydrogen bond or prove a salt bridge.
 
-## Figures
-
-### 1. Benzamidine Chemical Structure
-
-![Benzamidine structure](figures/benzamidine_structure.png)
-
-### 2. Trypsin Binding Pocket
-
-![Trypsin binding pocket](figures/trypsin_binding_pocket.png)
-
-### 3. Crystal and Docked Pose Comparison
-
-![Crystal versus docked pose](figures/crystal_vs_docked_v2.png)
-
-### 4. Benzamidine Interaction with Asp189
-
-![Asp189 interaction](figures/asp189_interaction.png)
-
-### 5. Additional Pose Comparison
-
-![Additional pose comparison](figures/crystal_vs_docked.png)
 
 ## Software and Tools
 
