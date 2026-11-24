@@ -71,6 +71,11 @@ The docking grid was centered on the centroid of the crystallographic benzamidin
 
 ## Results
 
+Key result: Redocking of protonated benzamidine into bovine beta-trypsin (PDB 3PTB) using AutoDock Vina produced a top-ranked pose with a Vina score of 
+−
+6.203
+−6.203 kcal/mol and a symmetry-aware heavy-atom RMSD of 0.374 Å relative to the crystallographic ligand. The docked amidinium group formed close contacts with Asp189, with the shortest nitrogen–oxygen distance of approximately 3.03 Å. These results validate the receptor/ligand preparation and docking protocol for this system.
+
 ### 1. Docking Score
 
 The best-ranked docking pose had a Vina score of:
@@ -93,8 +98,7 @@ The analysis identified close contacts between the positively charged benzamidin
 
 The closest nitrogen–oxygen contacts were approximately **3.03 Å**.
 
-These distances are consistent with a charge-assisted polar interaction. The distances alone do not establish a hydrogen bond or prove a salt bridge.
-
+The approximately 3.03 Å nitrogen–oxygen distances are consistent with close electrostatic and polar contacts between the protonated benzamidine amidinium group and the Asp189 carboxylate. These distances support a favorable cation–anion interaction but do not, by themselves, establish hydrogen-bond geometry or formally classify the contact as a salt bridge.
 
 ## Software and Tools
 
